@@ -1,0 +1,4 @@
+[submodule "pnpm"]
+	path = pnpm
+	url = https://github.com/bvanjoi/pnpm.git
+  branch = split-workspace-lockfile

@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "devDependencies": {
+    "eslint": "8.32.0"
+  },
+  "scripts": {
+    "bootstrap": "sh ./bootstrap.sh",
+    "clean": "rm -rf node_modules .pnpm-store pnpm-lock.yaml packages/a/node_modules packages/a/pnpm-lock.yaml packages/b/pnpm-lock.yaml packages/b/node_modules"
+  }
+}

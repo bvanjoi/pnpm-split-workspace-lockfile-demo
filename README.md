@@ -1,0 +1,5 @@
+# Bootstrap
+
+```
+npm run bootstrap
+```

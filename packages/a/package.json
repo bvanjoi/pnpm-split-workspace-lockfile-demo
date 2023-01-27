@@ -1,0 +1,8 @@
+{
+  "name": "@t/a",
+  "version": "0.0.1",
+  "dependencies": {
+    "@t/b": "workspace:*",
+    "acorn": "8.7.0"
+  }
+}
